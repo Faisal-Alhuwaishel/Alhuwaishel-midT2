@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Alhuwaishel-midT2</string>
+    <string name="title">Welcome to the project of Faisal Alhuwaishel , 200118</string>
+    <string name="btnDate">Pick a Date</string>
+    <string name="btnAct2">Go to Activity 2</string>
+    <string name="btnAct1">Go to Activity 1</string>
+    <string name="btnAct3">Go to Activity 3</string>
+    <string-array name="entries">
+        <item>London</item>
+        <item>Paris</item>
+        <item>Milton</item>
+        <item>New York</item>
+        <item>Moscow</item>
+    </string-array>
+</resources>
